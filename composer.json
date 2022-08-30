@@ -1,0 +1,23 @@
+{
+    "name": "devmarco/busca-cep",
+    "description": "Busca de CEP on line",
+    "type": "library",
+    "license": "Apache 2.0",
+    "autoload": {
+        "psr-4": {
+            "Devmarco\\BuscaCep\\": "src/"
+        },
+        "psr-0":{
+            "Search": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Desenvolvedor Marco Antonio",
+            "email": "marcoantoniobraz@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
