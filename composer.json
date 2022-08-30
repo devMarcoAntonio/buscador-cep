@@ -2,7 +2,7 @@
     "name": "devmarco/busca-cep",
     "description": "Busca de CEP on line",
     "type": "library",
-    "license": "Apache License 2.0",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Devmarco\\BuscaCep\\": "src/"
